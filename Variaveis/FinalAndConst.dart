@@ -44,9 +44,10 @@ void main() {
 
 // ==========================================
 // Caso 3: const com valor conhecido no código → funciona
+// Saída: 10
 // ==========================================
 void main() {
-  const limiteDeTarefas = 10;
+  const limiteDeTarefas = 10; // o 10 está escrito no código: é conhecido antes de rodar
   print(limiteDeTarefas); // saída: 10
 }
 
