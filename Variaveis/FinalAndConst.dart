@@ -62,6 +62,7 @@ void main() {
 
 // ==========================================
 // Caso 5: const feita com conta de outra const → funciona
+// Saída: 1440
 // ==========================================
 void main() {
   const minutosPorHora = 60;
