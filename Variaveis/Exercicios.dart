@@ -161,6 +161,7 @@ void main(){
 
 // ==========================================
 // Exercício 7: const em lista, não aceita novos itens
+// Saída: erro QUANDO roda → Unsupported operation: Cannot add to an unmodifiable list
 // ==========================================
 void main(){
     const categorias = ["Comida", "Bebida"];
