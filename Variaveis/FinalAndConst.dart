@@ -90,6 +90,7 @@ void main() {
 
 // ==========================================
 // Caso 8: tranca só o VALOR → a variável pode apontar para outra lista
+// Saída: [1, 2, 3, 4]
 // ==========================================
 void main() {
   var foo = const [];  // foo aponta para uma lista vazia const
