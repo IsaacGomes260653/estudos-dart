@@ -78,3 +78,10 @@ Próximos assuntos:
 | Orientação a objetos (classes, construtores, bibliotecas, herança) | a começar |
 
 O progresso detalhado, subtema por subtema, fica no roadmap do [meu perfil](https://github.com/IsaacGomes260653#roadmap).
+
+## Referências
+
+- [Documentação oficial da linguagem Dart](https://dart.dev/language): a base de todos os arquivos daqui.
+- [Tutorial oficial de Dart](https://dart.dev/learn/tutorial): passo a passo para quem está começando.
+- [DartPad](https://dartpad.dev): roda Dart no navegador, sem instalar nada. É onde eu testo cada caso.
+- [Trilha de Dart do Exercism](https://exercism.org/tracks/dart): exercícios práticos com correção.
