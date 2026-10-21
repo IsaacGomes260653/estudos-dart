@@ -24,3 +24,42 @@ Como ler os comentários:
 | `erro QUANDO roda` | o programa começa, mas para com um erro no meio |
 
 Alguns casos dão erro de propósito, para mostrar o que a linguagem não deixa fazer.
+
+## Índice dos assuntos
+
+Na ordem do roadmap. Os assuntos sem arquivo ainda não foram estudados.
+
+### 1. Lógica e sintaxe
+
+**[Variables](https://dart.dev/language/variables)** · pasta [`Variaveis/`](Variaveis)
+
+| Subtema | Arquivo | Casos | Documentação |
+|---|---|---|---|
+| Criando variáveis (introdução) | [CriandoVariaveis.dart](Variaveis/CriandoVariaveis.dart) | 2 | [Variables](https://dart.dev/language/variables) |
+| Null safety | [NullSafety.dart](Variaveis/NullSafety.dart) | 6 | [Null safety](https://dart.dev/language/variables#null-safety) |
+| Default value | [DefaultValue.dart](Variaveis/DefaultValue.dart) | 4 | [Default value](https://dart.dev/language/variables#default-value) |
+| Late variables | [LateVariables.dart](Variaveis/LateVariables.dart) | 4 | [Late variables](https://dart.dev/language/variables#late-variables) |
+| Final and const | [FinalAndConst.dart](Variaveis/FinalAndConst.dart) | 13 | [Final and const](https://dart.dev/language/variables#final-and-const) |
+| Wildcard variables | [WildcardVariables.dart](Variaveis/WildcardVariables.dart) | 6 | [Wildcard variables](https://dart.dev/language/variables#wildcard-variables) |
+| Exercícios de revisão | [Exercicios.dart](Variaveis/Exercicios.dart) | 12 | [Variables](https://dart.dev/language/variables) |
+
+Próximos assuntos:
+
+| Assunto | Subtemas | Documentação |
+|---|---|---|
+| Built-in types | Numbers, Strings, Booleans, Runes and grapheme clusters, Symbols | [Built-in types](https://dart.dev/language/built-in-types) |
+| Collections | Lists, Sets, Maps, Collection elements | [Collections](https://dart.dev/language/collections) |
+| Operators | aritméticos, de igualdade e relacionais, de teste de tipo, de atribuição, lógicos, bit a bit, expressões condicionais, cascade, spread | [Operators](https://dart.dev/language/operators) |
+| Branches | if/else, switch, guard clause | [Branches](https://dart.dev/language/branches) |
+| Loops | for, while e do-while, break e continue, labels | [Loops](https://dart.dev/language/loops) |
+| Functions | parâmetros posicionais e nomeados, `main()`, funções anônimas, escopo, closures, retorno, getters e setters, generators | [Functions](https://dart.dev/language/functions) |
+
+### 2. Programação orientada a objetos
+
+| Assunto | Subtemas | Documentação |
+|---|---|---|
+| Classes | classes e objetos, atributos, métodos, getters e setters, `static` | [Classes](https://dart.dev/language/classes) |
+| Constructors | padrão, nomeados, `this.x`, initializer list, `const`, redirecionamento, `factory`, `super` | [Constructors](https://dart.dev/language/constructors) |
+| Libraries & imports | encapsulamento com `_`, usar e criar bibliotecas | [Libraries](https://dart.dev/language/libraries) |
+| Herança | `extends`, `super`, `@override` | [Extend a class](https://dart.dev/language/extend) |
+| Complementares | classes abstratas, interfaces, mixins | [Class modifiers](https://dart.dev/language/class-modifiers) · [Mixins](https://dart.dev/language/mixins) |
