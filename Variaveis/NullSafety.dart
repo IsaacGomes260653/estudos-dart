@@ -46,6 +46,7 @@ void main() {
 
 // ==========================================
 // Caso 4: com ? e sem valor → a variável começa como null
+// Saída: null
 // ==========================================
 void main() {
   String? name4;
