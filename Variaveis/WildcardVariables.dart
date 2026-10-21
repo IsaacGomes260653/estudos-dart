@@ -1,5 +1,14 @@
 // WildcardVariables.dart
 // Assunto: a variável curinga (wildcard) _
+// Documentação oficial: https://dart.dev/language/variables#wildcard-variables
+// Requer Dart 3.7 ou mais novo (o DartPad já usa uma versão nova).
+// Casos:
+//   1. dois _ no mesmo bloco → funciona
+//   2. nome comum repetido → erro
+//   3. ler o _ → erro
+//   4. usar o _ numa condição → erro
+//   5. o valor à direita do _ é calculado mesmo assim
+//   6. fora do main o _ não é wildcard → erro
 
 // _ sozinho  → wildcard: um "lugar reservado"; o valor é calculado, mas não pode ser lido
 // Regras     → pode repetir no mesmo bloco; não pode ser lido; só funciona dentro de blocos (não fora do main)
