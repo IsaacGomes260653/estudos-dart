@@ -20,6 +20,7 @@
 
 // ==========================================
 // Caso 1: com ? → a variável aceita null
+// Saída: null
 // ==========================================
 void main() {
   String? name1 = null;
