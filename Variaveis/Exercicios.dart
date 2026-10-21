@@ -84,6 +84,7 @@ void main(){
 
 // ==========================================
 // Exercício 4: late, dar o valor depois
+// Saída: Tiago
 // ==========================================
 late String usuarioLogado; // não aceita null, mas recebe o valor depois
 
