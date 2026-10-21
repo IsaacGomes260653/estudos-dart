@@ -35,6 +35,7 @@ void main() {
 
 // ==========================================
 // Caso 2: final não pode receber outro valor → erro ANTES de rodar
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   final nome = "Isaac";
