@@ -1,5 +1,14 @@
 // NullSafety.dart
 // Assunto: atribuição de valor null nas variáveis e suas propriedades
+// Documentação oficial: https://dart.dev/language/variables#null-safety
+//   (para se aprofundar: https://dart.dev/null-safety)
+// Casos:
+//   1. com ? → a variável aceita null
+//   2. sem ? → não aceita null (erro)
+//   3. var com null → o tipo vira dynamic
+//   4. com ? e sem valor → começa como null
+//   5. ?? → valor reserva quando é null
+//   6. ??= → atribui só se estiver null
 
 // ?      → indica que a variável pode receber valor null
 // null   → ausência de valor; não é o mesmo que vazio ou zero
