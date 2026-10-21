@@ -29,6 +29,7 @@ void main() {
 
 // ==========================================
 // Caso 2: com String, o tipo fica escrito no código
+// Saída: Tiago
 // ==========================================
 void main() {
   String nome = "Tiago";
