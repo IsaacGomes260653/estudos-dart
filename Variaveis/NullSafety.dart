@@ -55,6 +55,7 @@ void main() {
 
 // ==========================================
 // Caso 5: ?? → name5 é null, então usa o valor da direita
+// Saída: Sem nome
 // ==========================================
 void main() {
   String? name5;
