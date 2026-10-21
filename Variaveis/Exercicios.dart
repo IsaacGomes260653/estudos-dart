@@ -1,6 +1,16 @@
 // ExerciciosVariables.dart
 // Assunto: exercícios da página Variables (dart.dev/language/variables)
 // Obs.: cada exercício é um programa completo. Para testar, copie só um deles para o DartPad.
+// Documentação oficial: https://dart.dev/language/variables
+// Exercícios:
+//   1. criando variáveis (var, String e int)
+//   2. null safety (?, ?? e ??=), com uma variação
+//   3. valor padrão (default value)
+//   4. late: dar o valor depois
+//   5. late: calcular só quando usar
+//   6. final e const em valores
+//   7. final e const em listas (3 versões)
+//   8. wildcard (_) (2 versões)
 
 // ==========================================
 // Exercício 1: criando variáveis (var, String e int)
