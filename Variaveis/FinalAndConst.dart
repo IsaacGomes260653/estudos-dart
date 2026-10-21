@@ -82,6 +82,7 @@ void main() {
 // ==========================================
 // Caso 7: const com a hora atual → erro ANTES de rodar
 // (na compilação o Dart não sabe que horas serão; se deixasse, a hora ficaria congelada)
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   const horaDoLogin = DateTime.now(); // erro: const precisa de um valor conhecido no código
