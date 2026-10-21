@@ -37,6 +37,7 @@ void main() {
 
 // ==========================================
 // Caso 3: var com null → o tipo vira dynamic e aceita qualquer valor
+// Saída: null
 // ==========================================
 void main() {
   var name3 = null;
