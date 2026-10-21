@@ -171,6 +171,7 @@ void main(){
 
 // ==========================================
 // Exercício 8: wildcard (_)
+// Saída: Carregando relatório...
 // ==========================================
 String carregarRelatorio(){
     print("Carregando relatório...");
