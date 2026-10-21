@@ -50,6 +50,7 @@ void main() {
 
 // ==========================================
 // Caso 4: late que só calcula no primeiro uso
+// Saída (3 linhas): Antes de usar | Buscando o animal... | Rex
 // ==========================================
 // Função: mostra uma mensagem e devolve um texto (String).
 // O print MOSTRA na hora em que a função roda; o return só ENTREGA o valor.
