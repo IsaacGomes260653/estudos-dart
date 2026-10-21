@@ -72,6 +72,7 @@ void main() {
 
 // ==========================================
 // Caso 6: final com a hora atual → funciona (a hora só existe quando o programa roda)
+// Saída: a data e a hora do momento (ex.: 2026-10-21 14:30:05.123456)
 // ==========================================
 void main() {
   final horaDoLogin = DateTime.now();
