@@ -1,5 +1,11 @@
 //LateVariables.dart
 //Assunto: o uso do late e seus casos
+// Documentação oficial: https://dart.dev/language/variables#late-variables
+// Casos:
+//   1. late com o valor dado depois
+//   2. sem late → erro antes de rodar
+//   3. late sem nunca receber valor → erro ao rodar
+//   4. late que só calcula no primeiro uso
 
 // late → "atrasado" em inglês. A variável NÃO aceita null, mas pode receber o valor depois.
 //        O Dart confia em você e não confere: se esquecer, o erro só aparece ao rodar.
