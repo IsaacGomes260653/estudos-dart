@@ -34,10 +34,11 @@ void main() {
 
 // ==========================================
 // Caso 3: sem ? e sem valor na criação → pode, desde que receba valor antes de ser usada
+// Saída: 10
 // ==========================================
 void main() {
   bool weLikeToCount = true;
-  int lineCount3;
+  int lineCount3; // ainda sem valor: o Dart confere que o if e o else dão um valor antes do print
   if (weLikeToCount) {
     lineCount3 = 10;
   } else {
