@@ -62,6 +62,7 @@ void main(){
 
 // ==========================================
 // Exercício 3: valor padrão (default value)
+// Saída (2 linhas): null | 10
 // ==========================================
 void main(){
 
