@@ -111,6 +111,7 @@ void main() {
 // ==========================================
 // Caso 10: tranca só a VARIÁVEL → a lista aceita itens
 // (é o caso da lista de tarefas do gerenciador: sempre a mesma lista, com tarefas entrando)
+// Saída: [1, 2, 3]
 // ==========================================
 void main() {
   final lista = [1, 2];
