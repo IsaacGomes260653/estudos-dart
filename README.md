@@ -85,3 +85,7 @@ O progresso detalhado, subtema por subtema, fica no roadmap do [meu perfil](http
 - [Tutorial oficial de Dart](https://dart.dev/learn/tutorial): passo a passo para quem está começando.
 - [DartPad](https://dartpad.dev): roda Dart no navegador, sem instalar nada. É onde eu testo cada caso.
 - [Trilha de Dart do Exercism](https://exercism.org/tracks/dart): exercícios práticos com correção.
+
+## English summary
+
+My Dart study notes on the road to Flutter. Each language topic is a `.dart` file split into small **cases**, and each case is a complete program with its own `main`, so a whole file does not compile at once — that is on purpose. Copy one case (from its `// ====` header to the end of its `main`) into [DartPad](https://dartpad.dev) and run it. Comments are in Portuguese, and every case states its expected output (`// Saída:`). Topics follow the official [Dart language docs](https://dart.dev/language).
