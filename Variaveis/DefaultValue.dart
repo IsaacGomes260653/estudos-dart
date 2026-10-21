@@ -15,6 +15,7 @@
 
 // ==========================================
 // Caso 1: com ? e sem valor → começa como null
+// Saída: null
 // ==========================================
 void main() {
   int? lineCount1;
