@@ -53,6 +53,7 @@ void main() {
 
 // ==========================================
 // Caso 4: const não pode receber outro valor → erro ANTES de rodar
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   const limiteDeTarefas = 10;
