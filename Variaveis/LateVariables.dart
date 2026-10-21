@@ -18,6 +18,7 @@
 
 // ==========================================
 // Caso 1: late com o valor dado depois
+// Saída: Melzinha
 // ==========================================
 late String animal; // cria a variável sem valor; o late promete que ela vai receber um
 
