@@ -1,5 +1,9 @@
 // CriandoVariaveis.dart
 // Assunto: estrutura básica de um programa Dart e variáveis com suas explicações
+// Documentação oficial: https://dart.dev/language/variables
+// Casos:
+//   1. var: o Dart descobre que o tipo é String
+//   2. String: o tipo fica escrito no código
 
 // void    → a função não devolve nada ("vazio" em inglês)
 // main    → nome da função onde o programa começa; o Dart sempre procura por ela
