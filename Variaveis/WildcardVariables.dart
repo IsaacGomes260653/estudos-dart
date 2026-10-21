@@ -18,6 +18,7 @@
 
 // ==========================================
 // Caso 1: duas variáveis _ no mesmo bloco → funciona (wildcard pode repetir)
+// Saída: Sem erro: o _ pode se repetir
 // ==========================================
 void main() {
   var _ = 1;
