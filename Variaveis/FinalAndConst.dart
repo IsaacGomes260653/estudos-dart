@@ -101,6 +101,7 @@ void main() {
 
 // ==========================================
 // Caso 9: tranca só o VALOR → a lista const não aceita itens → erro QUANDO roda
+// Saída: erro QUANDO roda → Unsupported operation: Cannot add to an unmodifiable list
 // ==========================================
 void main() {
   var foo = const [];
