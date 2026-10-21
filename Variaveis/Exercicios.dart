@@ -124,6 +124,7 @@ void main(){
 
 // ==========================================
 // Exercício 6: final e const em valores
+// Saída (4 linhas): Íris Pet Spa | 5 | 10 | a data e a hora do momento
 // ==========================================
 void main(){
     const loja = "Íris Pet Spa";         // const: valor conhecido no código
