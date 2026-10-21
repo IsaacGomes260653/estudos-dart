@@ -47,6 +47,7 @@ void main() {
 // ==========================================
 // Caso 4: tentar usar o _ numa condição → erro ANTES de rodar
 // (o if precisa OLHAR o valor; o _ diz que não vai olhar)
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   var _ = 1;
