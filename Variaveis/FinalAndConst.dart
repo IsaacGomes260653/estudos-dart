@@ -1,5 +1,17 @@
 // FinalAndConst.dart
 // Assunto: variáveis que não mudam (final e const) e a diferença entre trancar a variável e o valor
+// Documentação oficial: https://dart.dev/language/variables#final-and-const
+// Casos:
+//   1. final com valor
+//   2. final recebendo outro valor (erro)
+//   3. const com valor conhecido no código
+//   4. const recebendo outro valor (erro)
+//   5. const feita com conta de outra const
+//   6. final com a hora atual
+//   7. const com a hora atual (erro)
+//   8–9.   tranca só o VALOR (var + const [])
+//   10–11. tranca só a VARIÁVEL (final + lista comum)
+//   12–13. tranca os DOIS (const)
 
 // var    → a variável pode mudar quantas vezes quiser
 // final  → recebe valor uma vez só e nunca mais muda; o valor pode ser descoberto com o programa rodando
