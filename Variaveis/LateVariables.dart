@@ -29,6 +29,7 @@ void main() {
 
 // ==========================================
 // Caso 2: sem late → erro ANTES de rodar
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 String animal; // String não aceita null e não recebeu valor → o editor sublinha o erro
 
