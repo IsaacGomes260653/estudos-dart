@@ -28,6 +28,7 @@ void main() {
 
 // ==========================================
 // Caso 2: duas variáveis com nome comum repetido → erro ANTES de rodar
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   var x = 1;
