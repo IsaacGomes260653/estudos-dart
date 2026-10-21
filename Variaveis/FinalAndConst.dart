@@ -121,6 +121,7 @@ void main() {
 
 // ==========================================
 // Caso 11: tranca só a VARIÁVEL → não pode apontar para outra lista → erro ANTES de rodar
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   final lista = [1, 2];
