@@ -25,6 +25,7 @@ void main() {
 
 // ==========================================
 // Caso 2: sem ? → precisa de um valor antes de ser usada
+// Saída: 0
 // ==========================================
 void main() {
   int lineCount2 = 0;
