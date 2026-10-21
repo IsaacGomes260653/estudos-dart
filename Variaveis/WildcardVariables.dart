@@ -72,6 +72,7 @@ void main() {
 
 // ==========================================
 // Caso 6: fora do main o _ NÃO é wildcard → repetir dá erro ANTES de rodar
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 var _ = 1;
 var _ = 2; // erro: fora de blocos, o _ é um nome comum e não pode se repetir
