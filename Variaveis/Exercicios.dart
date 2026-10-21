@@ -151,6 +151,7 @@ void main(){
 
 // ==========================================
 // Exercício 7: final em lista, não pode trocar a lista inteira
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main(){
     final carrinho = ["Arroz", "Feijão"];
