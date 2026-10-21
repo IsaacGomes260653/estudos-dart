@@ -20,6 +20,7 @@
 
 // ==========================================
 // Caso 1: com var, o Dart descobre que o tipo é String
+// Saída: Isaac
 // ==========================================
 void main() {
   var name = "Isaac";
