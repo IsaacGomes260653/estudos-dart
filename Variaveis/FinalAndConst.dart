@@ -26,9 +26,10 @@
 
 // ==========================================
 // Caso 1: final com valor → funciona
+// Saída: Isaac
 // ==========================================
 void main() {
-  final nome = "Isaac";
+  final nome = "Isaac"; // final: recebe o valor uma vez; o tipo (String) vem do valor
   print(nome); // saída: Isaac
 }
 
