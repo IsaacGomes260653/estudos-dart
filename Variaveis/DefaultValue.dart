@@ -49,6 +49,7 @@ void main() {
 
 // ==========================================
 // Caso 4: sem ? e usada sem valor → erro
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   int lineCount4;
