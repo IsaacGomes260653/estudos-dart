@@ -188,6 +188,7 @@ void main(){
 
 // ==========================================
 // Exercício 8: o _ não pode ser lido
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main(){
     var _ = "Isaac";
