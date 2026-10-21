@@ -37,6 +37,7 @@ void main() {
 
 // ==========================================
 // Caso 3: tentar ler o _ → erro ANTES de rodar
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   var _ = 1;
