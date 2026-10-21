@@ -27,6 +27,7 @@ void main(){
 
 // ==========================================
 // Exercício 2: null safety (?, ?? e ??=)
+// Saída (2 linhas): Sem telefone. | Ana 99999-0000
 // ==========================================
 void main(){
     String nome = "Ana";   // obrigatório: não aceita null
