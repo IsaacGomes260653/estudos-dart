@@ -104,6 +104,7 @@ void main(){
 
 // ==========================================
 // Exercício 5: late, calcular só quando usar
+// Saída (3 linhas): Menu aberto | Carregando relatório | Relatório OK
 // ==========================================
 String carregarRelatorio(){
     print("Carregando relatório");
