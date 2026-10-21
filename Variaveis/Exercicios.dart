@@ -45,14 +45,15 @@ void main(){
 
 // ==========================================
 // Exercício 2 (variação): agora o nome é que pode ser null
+// Saída (2 linhas): Sem nome | Isaac 99999-0000
 // ==========================================
 void main(){
-    String? nome;
-    String telefone = "99999-0000";
+    String? nome; // opcional: começa como null
+    String telefone = "99999-0000"; // obrigatório: já nasce com valor
 
-    print(nome ?? "Sem nome");
+    print(nome ?? "Sem nome"); // nome é null → usa o texto da direita
 
-    nome ??= "Isaac";
+    nome ??= "Isaac"; // só recebe o valor porque estava null
     print("$nome $telefone");
     // saída:
     // Sem nome
