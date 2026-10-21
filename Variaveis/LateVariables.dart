@@ -40,6 +40,7 @@ void main() {
 
 // ==========================================
 // Caso 3: late sem nunca receber valor → erro só QUANDO roda
+// Saída: erro QUANDO roda → LateInitializationError: Field 'animal' has not been initialized.
 // ==========================================
 late String animal; // promete que vai receber valor...
 
