@@ -29,6 +29,7 @@ void main() {
 
 // ==========================================
 // Caso 2: sem ? → não aceita null, gerando erro
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   String name2 = null; // erro: um valor 'Null' não pode ser atribuído a uma variável 'String'
