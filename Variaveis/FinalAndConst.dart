@@ -140,6 +140,7 @@ void main() {
 // ==========================================
 // Caso 13: tranca os DOIS → não pode apontar para outra lista → erro ANTES de rodar
 // (é o baz = [42] da documentação)
+// Saída: nenhuma, erro ANTES de rodar (o programa nem começa)
 // ==========================================
 void main() {
   const baz = [];
