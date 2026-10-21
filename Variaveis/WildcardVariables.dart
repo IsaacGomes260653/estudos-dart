@@ -58,6 +58,7 @@ void main() {
 
 // ==========================================
 // Caso 5: o valor à direita do _ é calculado mesmo assim
+// Saída: Buscando o animal...
 // ==========================================
 String buscarAnimal() {
   print("Buscando o animal...");
