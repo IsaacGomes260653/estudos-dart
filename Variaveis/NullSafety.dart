@@ -65,6 +65,7 @@ void main() {
 // ==========================================
 // Caso 6: ??= → name6 é null, então recebe "Isaac"
 // (se já tivesse um valor, continuaria com o valor antigo)
+// Saída: Isaac
 // ==========================================
 void main() {
   String? name6;
