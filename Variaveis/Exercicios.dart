@@ -141,6 +141,7 @@ void main(){
 
 // ==========================================
 // Exercício 7: final em lista, a lista aceita novos itens
+// Saída: [Arroz, Feijão]
 // ==========================================
 void main(){
     final carrinho = ["Arroz"];
