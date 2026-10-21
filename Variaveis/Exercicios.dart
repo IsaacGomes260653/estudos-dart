@@ -14,6 +14,7 @@
 
 // ==========================================
 // Exercício 1: criando variáveis (var, String e int)
+// Saída: Ellie, Cachorro, 5
 // ==========================================
 void main(){
     var nome = "Ellie";        // var: o Dart descobre que é String
