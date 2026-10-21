@@ -130,6 +130,7 @@ void main() {
 
 // ==========================================
 // Caso 12: tranca os DOIS → não aceita itens → erro QUANDO roda
+// Saída: erro QUANDO roda → Unsupported operation: Cannot add to an unmodifiable list
 // ==========================================
 void main() {
   const lista = [1, 2];
