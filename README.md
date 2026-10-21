@@ -63,3 +63,18 @@ Próximos assuntos:
 | Libraries & imports | encapsulamento com `_`, usar e criar bibliotecas | [Libraries](https://dart.dev/language/libraries) |
 | Herança | `extends`, `super`, `@override` | [Extend a class](https://dart.dev/language/extend) |
 | Complementares | classes abstratas, interfaces, mixins | [Class modifiers](https://dart.dev/language/class-modifiers) · [Mixins](https://dart.dev/language/mixins) |
+
+## Progresso
+
+| Assunto | Status |
+|---|---|
+| Variables | concluído (5 de 5 subtemas) |
+| Built-in types | estudando (Numbers) |
+| Collections | a começar |
+| Operators | a começar |
+| Branches | a começar |
+| Loops | a começar |
+| Functions | a começar |
+| Orientação a objetos (classes, construtores, bibliotecas, herança) | a começar |
+
+O progresso detalhado, subtema por subtema, fica no roadmap do [meu perfil](https://github.com/IsaacGomes260653#roadmap).
