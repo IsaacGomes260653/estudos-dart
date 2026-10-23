@@ -1,5 +1,7 @@
 # Estudos de Dart
 
+![Estudos de Dart: um arquivo por assunto, com casos curtos e código comentado em português para rodar no DartPad](.github/social-preview.png)
+
 Meus estudos de Dart, rumo ao Flutter. Cada assunto da linguagem fica registrado em código comentado em português, para eu voltar e revisar quando precisar e para quem quiser aprender Dart do zero seguindo o mesmo caminho.
 
 Os assuntos seguem a ordem da [documentação oficial da linguagem](https://dart.dev/language) e o roadmap do meu [perfil no GitHub](https://github.com/IsaacGomes260653).
@@ -79,6 +81,10 @@ Próximos assuntos:
 
 O progresso detalhado, subtema por subtema, fica no roadmap do [meu perfil](https://github.com/IsaacGomes260653#roadmap).
 
+## Dúvidas
+
+Ficou com dúvida em algum caso ou achou um erro? Abra uma pergunta nas [Discussions](https://github.com/IsaacGomes260653/estudos-dart/discussions/categories/q-a). Responder dúvidas também me ajuda a estudar.
+
 ## Referências
 
 - [Documentação oficial da linguagem Dart](https://dart.dev/language): a base de todos os arquivos daqui.
@@ -88,4 +94,8 @@ O progresso detalhado, subtema por subtema, fica no roadmap do [meu perfil](http
 
 ## English summary
 
-My Dart study notes on the road to Flutter. Each language topic is a `.dart` file split into small **cases**, and each case is a complete program with its own `main`, so a whole file does not compile at once — that is on purpose. Copy one case (from its `// ====` header to the end of its `main`) into [DartPad](https://dartpad.dev) and run it. Comments are in Portuguese, and every case states its expected output (`// Saída:`). Topics follow the official [Dart language docs](https://dart.dev/language).
+My Dart study notes on the road to Flutter. Each language topic is a `.dart` file split into small **cases**, and each case is a complete program with its own `main`, so a whole file does not compile at once — that is on purpose. Copy one case (from its `// ====` header to the end of its `main`) into [DartPad](https://dartpad.dev) and run it. Comments are in Portuguese, and every case states its expected output (`// Saída:`). Topics follow the official [Dart language docs](https://dart.dev/language). Questions are welcome in [Discussions](https://github.com/IsaacGomes260653/estudos-dart/discussions/categories/q-a).
+
+## Licença · License
+
+[MIT](LICENSE)
