@@ -31,6 +31,9 @@
 // e              → notação científica: "vezes 10 elevado a" (2.3e5 = 2,3 × 10⁵)
 // _ entre dígitos → separador só para facilitar a leitura (1_500_000)
 // +=             → atalho: w += 0.5 é o mesmo que w = w + 0.5
+// parse          → em inglês, "interpretar": lê um texto e devolve o número que ele representa.
+//                  É chamado no TIPO (int.parse, double.parse), nunca no valor, porque você ainda não tem
+//                  um número, só um texto. Dentro dos () vai o texto a interpretar: int.parse("30") → 30
 // int.parse()    → interpreta um texto como int (texto inválido → erro ao rodar)
 // double.parse() → interpreta um texto como double
 // int.tryParse() → igual ao parse, mas devolve null se o texto for inválido (resultado é int?)
