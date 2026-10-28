@@ -43,11 +43,17 @@ Na ordem do roadmap. Os assuntos sem arquivo ainda não foram estudados.
 | Wildcard variables | [WildcardVariables.dart](Variaveis/WildcardVariables.dart) | 6 | [Wildcard variables](https://dart.dev/language/variables#wildcard-variables) |
 | Exercícios de revisão | [Exercicios.dart](Variaveis/Exercicios.dart) | 12 | [Variables](https://dart.dev/language/variables) |
 
+**[Built-in types](https://dart.dev/language/built-in-types)** · pasta [`BuiltInTypes/`](BuiltInTypes)
+
+| Subtema | Arquivo | Casos | Documentação |
+|---|---|---|---|
+| Numbers | [Numbers.dart](BuiltInTypes/Numbers.dart) | 21 | [Numbers](https://dart.dev/language/built-in-types#numbers) |
+
 Próximos assuntos:
 
 | Assunto | Subtemas | Documentação |
 |---|---|---|
-| Built-in types | Numbers, Strings, Booleans, Runes and grapheme clusters, Symbols | [Built-in types](https://dart.dev/language/built-in-types) |
+| Built-in types (continuação) | Strings, Booleans, Runes and grapheme clusters, Symbols | [Built-in types](https://dart.dev/language/built-in-types) |
 | Collections | Lists, Sets, Maps, Collection elements | [Collections](https://dart.dev/language/collections) |
 | Operators | aritméticos, de igualdade e relacionais, de teste de tipo, de atribuição, lógicos, bit a bit, expressões condicionais, cascade, spread | [Operators](https://dart.dev/language/operators) |
 | Branches | if/else, switch, guard clause | [Branches](https://dart.dev/language/branches) |
@@ -69,7 +75,7 @@ Próximos assuntos:
 | Assunto | Status |
 |---|---|
 | Variables | concluído (5 de 5 subtemas) |
-| Built-in types | estudando (Numbers) |
+| Built-in types | estudando (1 de 5 subtemas) |
 | Collections | a começar |
 | Operators | a começar |
 | Branches | a começar |
