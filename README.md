@@ -1,6 +1,11 @@
 # Estudos de Dart
 
-![Estudos de Dart: um arquivo por assunto, com casos curtos e código comentado em português para rodar no DartPad](.github/social-preview.png)
+<p align="center">
+  <picture>
+    <source media="(max-width: 767px)" srcset="https://raw.githubusercontent.com/IsaacGomes260653/estudos-dart/main/.github/banner-mobile.svg">
+    <img src="https://raw.githubusercontent.com/IsaacGomes260653/estudos-dart/main/.github/banner.svg" alt="Estudos de Dart, estudos rumo ao Flutter: um arquivo por assunto, com casos curtos e código comentado em português para rodar no DartPad">
+  </picture>
+</p>
 
 Meus estudos de Dart, rumo ao Flutter. Cada assunto da linguagem fica registrado em código comentado em português, para eu voltar e revisar quando precisar e para quem quiser aprender Dart do zero seguindo o mesmo caminho.
 
